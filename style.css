@@ -182,7 +182,7 @@ textarea:focus,
 }
 
 a {
-	color: #c3251d;
+	color: #5C7F7A; /*This is a darker version of MTAH secondary color #729E97*/
 	text-decoration: underline;
 }
 
