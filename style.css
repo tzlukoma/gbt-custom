@@ -1976,6 +1976,11 @@ p.entry-meta {
   font-family:'Montserrat';
 }
 
+/* Resizing Blog Index Sidebar Text */
+.widget-wrap li {
+	font-size:1.6rem;
+}
+
 /* #Beaver Builder Media Query for Hero Image
 ---------------------------------------------------------------------------------------------------- */
 /* Add this into your style.css or whever else you'd like to add your CSS 
