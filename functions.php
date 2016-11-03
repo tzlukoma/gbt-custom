@@ -153,4 +153,11 @@ function custom_header_inline_logo( $title, $inside, $wrap ) {
 // Remove the site description
 remove_action( 'genesis_site_description', 'genesis_seo_site_description' );
 
-
+//* Customize the entire footer
+remove_action( 'genesis_footer', 'genesis_do_footer' );
+add_action( 'genesis_footer', 'sp_custom_footer' );
+function sp_custom_footer() {
+	?>
+	<p>&copy; Copyright 2016 <a href="http://morethanahut.com/">MoreThanAHut Solutions</a> &middot; All Rights Reserved &middot; Powered by <a href="http://wordpress.org/">WordPress</a> &middot;</p>
+	<?php
+}
