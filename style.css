@@ -1165,7 +1165,7 @@ img.alignright,
 .genesis-nav-menu .current-menu-item > a,
 .genesis-nav-menu .sub-menu .current-menu-item > a:hover,
 .genesis-nav-menu .sub-menu .current-menu-item > a:focus  {
-	color: #2586ba;
+	color: #5C7F7A; /* Match other links on site */
 	text-decoration: underline;
 	font-family:'Montserrat';
 }
