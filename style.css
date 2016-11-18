@@ -1990,4 +1990,9 @@ p.entry-meta {
 }
 
 
+.archive-description .entry-title, .archive-title, .author-box-title {
+    font-size: 30px;
+    font-size: 4rem;
+    color:#5C7F7A;
+    font-style: italic;
 }
