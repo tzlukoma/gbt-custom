@@ -158,6 +158,6 @@ remove_action( 'genesis_footer', 'genesis_do_footer' );
 add_action( 'genesis_footer', 'sp_custom_footer' );
 function sp_custom_footer() {
 	?>
-	<p>&copy; Copyright 2016 <a href="http://morethanahut.com/">MoreThanAHut Solutions</a> &middot; All Rights Reserved &middot; Powered by <a href="http://wordpress.org/">WordPress</a> &middot;</p>
+	<p>&copy; Copyright 2017 <a href="http://georgebthompson.com/">George B. Thompson</a> &middot; All Rights Reserved &middot; Designed by <a href="http://morethanahut.com/">MoreThanAHut</a> &middot;</p>
 	<?php
 }
