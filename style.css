@@ -300,10 +300,13 @@ h2 {
 }
 
 h3 {
-    font-size: 1.44em;
-    border-bottom: 1px solid #b1c3c6;
+    font-size: 1.75em;
+    font-weight:normal;
+    font-style:italic;
+    /*border-bottom: 1px solid #b1c3c6;*/
+    color:#1f919d;
     margin-bottom: 36px;
-    padding-bottom: 20px;
+    /*padding-bottom: 20px;*/
 }
 
 
