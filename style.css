@@ -1159,7 +1159,7 @@ img.alignright,
 	color: #000000;
 	text-decoration: none;
 	display: block;
-	padding: 32px 20px;
+	padding: 32px 10px;
 	font-family:'Lora';
 }
 
@@ -1169,8 +1169,13 @@ img.alignright,
 .genesis-nav-menu .sub-menu .current-menu-item > a:hover,
 .genesis-nav-menu .sub-menu .current-menu-item > a:focus  {
 	color: #5C7F7A; /* Match other links on site */
-	text-decoration: underline;
-	font-family:'Lora';
+	/*text-decoration: underline;*/
+    font-family: 'Lora';
+    /* background-color: #85d39b; */
+    border: 3px solid;
+    border-color: #fff #fff #18537c #fff;
+}
+
 }
 
 .genesis-nav-menu .sub-menu {
@@ -2036,7 +2041,14 @@ p.entry-meta {
 }
 
 
-
+.genesis-nav-menu a {
+    color: #000000;
+    text-decoration: none;
+    display: block;
+    padding: 32px 20px;
+    font-family: 'Lora';
+    font-size: 1.2em;
+}
 
 
 
