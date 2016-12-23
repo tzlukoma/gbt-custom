@@ -2006,3 +2006,40 @@ p.entry-meta {
 	background-color: #85d39b;
 }
 
+/* #Events Styling
+---------------------------------------------------------------------------------------------------- */
+.tribe-events-schedule h2 {
+    font-size: 1.2em;
+} /* Event Date & Time h2 */
+
+.ecs-event-list {
+	list-style-type: none;
+}
+
+#upcoming-events-sidebar h2 {
+	font-size:1.2em;
+	font-style:italic;
+}
+
+#upcoming-events-sidebar a {
+    font-size: 1.6rem;
+}
+
+#speaking-engagement-banner a {
+    font-size: 1.6rem;
+    color:#ffffff;
+}
+
+#contact-block-divder h2 {
+	background:#1f919d;
+	color:#ffffff;
+}
+
+
+
+
+
+
+
+
+
